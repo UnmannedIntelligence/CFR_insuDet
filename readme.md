@@ -10,9 +10,7 @@ An insulator defect detection method based on online aerial images and deep lear
 
 ## Other
 
-You can download all the process data recorded throughout the entire experiment here.  Data is about to be uploaded
-
-
+You can download all the process data recorded throughout the entire experiment here. Dataset is about to be uploaded.
 
 
 
