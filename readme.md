@@ -1,3 +1,5 @@
+##### Noted: Currently, only experimental videos are available in this repository. The code will be updated after the paper is accepted.
+
 # A Convolutional Feature Reuse-Based Insulator Defect Detection Method for High-Voltage Transmission Lines
 
 
