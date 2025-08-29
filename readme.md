@@ -30,7 +30,7 @@ If you find this repository useful in your research, please cite our paper once 
 
 ```text
 @article{Sensors2025ZhangUAVInsuDet,
-  author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Yichi Yang, Youmin Zhang},
+  author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Jing Huang, Youmin Zhang},
   title = {A Convolutional Feature Reuse-Based Insulator Defect Detection Method for High-Voltage Transmission Lines},
   journal = {IEEE Sensors Journal},
   year    = {2025},
@@ -48,3 +48,4 @@ If you find this repository useful in your research, please cite our paper once 
 For questions or collaborations, please contact:
 
 **Yulong Zhang** · [yulong.zhang@stu.xaut.edu.cn](mailto:yulong.zhang@stu.xaut.edu.cn)
+
