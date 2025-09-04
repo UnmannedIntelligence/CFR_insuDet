@@ -2,7 +2,7 @@
 
 ### Repository Overview
 
-This repository provides the experimental resources for our manuscript submitted to *IEEE SENSORS JOURNAL*. It contains source code, experimental data, and aerial inspection videos used for the insulator missing defect detection study.
+This repository provides the experimental resources for our manuscript submitted to *IEEE Internet of Things Journal*. It contains source code, experimental data, and aerial inspection videos used for the insulator missing defect detection study.
 
 ⚠️ **Note:** At present, only experimental videos are available. The source code and datasets will be uploaded after the manuscript is accepted.
 
@@ -29,10 +29,10 @@ The proposed method is evaluated on both the Chinese Power Line Insulator Datase
 If you find this repository useful in your research, please cite our paper once it is published in *IEEE SENSORS JOURNAL*:
 
 ```text
-@article{Sensors2025ZhangUAVInsuDet,
+@article{IoTJ2025ZhangUAVInsuDet,
   author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Jing Huang, Youmin Zhang},
-  title = {A Convolutional Feature Reuse-Based Insulator Defect Detection Method for High-Voltage Transmission Lines},
-  journal = {IEEE Sensors Journal},
+  title = {UAV-Based Edge Inference for Insulator Defect Detection on Transmission Lines via Convolutional Feature Reuse},
+  journal = {IEEE Internet of Things Journal},
   year    = {2025},
   volume  = {...},
   number  = {...},
@@ -48,4 +48,5 @@ If you find this repository useful in your research, please cite our paper once 
 For questions or collaborations, please contact:
 
 **Yulong Zhang** · [yulong.zhang@stu.xaut.edu.cn](mailto:yulong.zhang@stu.xaut.edu.cn)
+
 
