@@ -1,4 +1,4 @@
-# A Convolutional Feature Reuse-Based Insulator Defect Detection Method for High-Voltage Transmission Lines
+# UAV-Based Edge Inference for Insulator Defect Detection on Transmission Lines via Convolutional Feature Reuse
 
 ### Repository Overview
 
@@ -48,5 +48,6 @@ If you find this repository useful in your research, please cite our paper once 
 For questions or collaborations, please contact:
 
 **Yulong Zhang** · [yulong.zhang@stu.xaut.edu.cn](mailto:yulong.zhang@stu.xaut.edu.cn)
+
 
 
